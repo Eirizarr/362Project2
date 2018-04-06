@@ -35,6 +35,14 @@ body {
   line-height: 20px;
 }
 
+#Departflights ul {
+  display: inline-block;
+}
+
+#ReturnFlights ul{
+  display: inline-block;
+}
+
 h1,
 h2,
 h3,
